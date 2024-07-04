@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Zorgon",
+    "picture": "images/zorgon.jpg",
+    "rating": 5,
+    "location": "Alpha Centauri",
+    "text": "Earth's biodiversity is fascinating. The lush jungles and vibrant marine life were a delight to explore."
+  },
+  {
+    "id": 2,
+    "name": "Glexnar",
+    "picture": "images/glexnar.jpg",
+    "rating": 4,
+    "location": "Orion Nebula",
+    "text": "The technological advancements on Earth are impressive. Their innovative spacecraft designs stood out."
+  },
+  {
+    "id": 3,
+    "name": "Lysara",
+    "picture": "images/lysara.jpg",
+    "rating": 2,
+    "location": "Orion Nebula",
+    "text": "Pollution levels on Earth are concerning. Poor air quality and plastic waste in oceans were quite disheartening."
+  },
+  {
+    "id": 4,
+    "name": "Zephyra",
+    "picture": "images/zephyra.jpg",
+    "rating": 4,
+    "location": "Andromeda Galaxy",
+    "text": "The variety of climates on Earth is fascinating. Tropical beaches and serene mountains were particularly enjoyable."
+  },
+  {
+    "id": 5,
+    "name": "Xandar",
+    "picture": "images/xandar.jpg",
+    "rating": 3,
+    "location": "Milky Way Galaxy",
+    "text": "Earth's cultural diversity is intriguing. The art, music, and cuisine reflect a rich tapestry of human creativity."
+  }
+]
